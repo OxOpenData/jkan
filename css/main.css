@@ -101,16 +101,6 @@ dataset {
 
 /* Local style changes */
 
-/* site logo*/
-.site-logo {
-    float: left;
-    background: url(https://oxopendata.github.io/jkan/img/smart_oxford.png) no-repeat left;
-    background-size: contain;
-    /* background-position: left; */
-    display: block;
-    width: 250px;
-    margin-top: 0;
-
 a:link, a:visited {
   color: #b44c03;
   text-decoration: none;
