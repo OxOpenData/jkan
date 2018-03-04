@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: /img/smart_oxford.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Flatly
 
 # Authentication
 github_client_id: 8e7bbbcb07418629191d
