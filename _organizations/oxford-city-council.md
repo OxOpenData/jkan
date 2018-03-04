@@ -1,6 +1,6 @@
 ---
 schema: default
 title: Oxford City Council
-description: Building a World-Class City for Everyone
-logo: /img/oxford city council graphic.jpg
+description: l;klkj
+logo: 'https://github.com/OxOpenData/jkan/blob/gh-pages/img/Oxon_CC.jpg'
 ---
