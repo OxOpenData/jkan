@@ -2,7 +2,7 @@ title: OxOpenData
 greeting: Welcome to OxOpenData
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
-logo: /img/jkan.png
+logo: /img/smart_oxford.png
 
 # Site theme
 jkan_theme: Default
