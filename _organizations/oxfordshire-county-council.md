@@ -2,5 +2,5 @@
 schema: default
 title: Oxfordshire County Council
 description: ''
-logo: /img/Oxon_CC.jpg
+logo: 'https://github.com/OxOpenData/jkan/blob/gh-pages/img/Oxon_CC.jpg'
 ---
