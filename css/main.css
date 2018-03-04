@@ -99,6 +99,21 @@ dataset {
   border-width: 5px;
 }
 
+/* Local style changes */
+
+a:link, a:visited {
+  color: #b44c03;
+  text-decoration: none;
+}
+
+a:hover, a:focus  {
+  text-decoration: underline;
+}
+
+a.btn.btn-primary.btn-lg {
+  color: #fff;
+}
+
 .navbar-default {
   background-color: #0f6ab1;
   border-color: #0f6ab1;
