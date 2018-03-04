@@ -98,3 +98,13 @@ dataset {
 .theme-gallery .panel-primary {
   border-width: 5px;
 }
+
+.navbar-default {
+  background-color: #0f6ab1;
+  border-color: #0f6ab1;
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #fff;
+}
