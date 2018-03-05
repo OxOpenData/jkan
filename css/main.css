@@ -114,6 +114,7 @@ a.btn.btn-primary.btn-lg {
   color: #fff;
 }
 
+/* Navigation bar changes*/
 .navbar-default {
   background-color: #0f6ab1;
   border-color: #0f6ab1;
@@ -132,6 +133,9 @@ a.btn.btn-primary.btn-lg {
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
     color: rgb(229, 20, 16);
 }
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: rgb(229, 20, 16);
 
 /*Jumbotron changes on front page*/
 @media screen and (min-width: 768px)
