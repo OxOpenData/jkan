@@ -110,6 +110,7 @@ a:hover, a:focus  {
   text-decoration: underline;
 }
 
+/*Button changes*/
 a.btn.btn-primary.btn-lg {
   color: #fff;
   background-color: #0f6ab1;
@@ -122,6 +123,13 @@ color: #fff;
   border-color: rgb(229, 20, 16);
 }
 
+.btn-default {
+    background-color: #fff;
+    border-color: rgb(229, 20, 16);
+}
+ 
+rgb(229, 20, 16)
+  
 /* Navigation bar changes*/
 .navbar-default {
   background-color: #0f6ab1;
