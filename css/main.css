@@ -112,6 +112,14 @@ a:hover, a:focus  {
 
 a.btn.btn-primary.btn-lg {
   color: #fff;
+  background-color: #0f6ab1;
+  border-color: #0f6ab1;
+}
+
+a.btn.btn-primary.btn-lg:hover {
+color: #fff;
+  background-color: rgb(229, 20, 16);
+  border-color: rgb(229, 20, 16);
 }
 
 /* Navigation bar changes*/
@@ -150,17 +158,4 @@ a.btn.btn-primary.btn-lg {
 
 .jumbotron p  {
   font-size: 1.2em;
-}
-  
-/* Button changes */
-a.btn.btn-primary.btn-lg {
-  color: #fff;
-  background-color: #0f6ab1;
-  border-color: #0f6ab1;
-}
-
-a.btn.btn-primary.btn-lg:hover {
-  color: #fff;
-  background-color: rgb(229, 20, 16);
-  border-color: rgb(229, 20, 16);
 }
