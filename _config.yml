@@ -20,6 +20,8 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: Smart Oxford
+    url: http://www.oxfordsmartcity.uk
 
 # Collections
 collections:
@@ -52,8 +54,8 @@ kramdown:
 
 # Google Analytics
 google_analytics:
-  enabled: false
-  code: "UA-XXXXXX-1"
+  enabled: true
+  code: "UA-85324337-1"
 
 # US Digital Analytics Program - https://analytics.usa.gov
 digital_analytics_program:
