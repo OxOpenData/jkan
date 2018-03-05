@@ -21,7 +21,7 @@ navigation:
   - title: Organizations
     url: /organizations/
   - title: Smart Oxford
-    url: /smartoxford.md
+    url: /smartoxford.html
 
 # Collections
 collections:
