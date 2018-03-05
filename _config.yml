@@ -21,7 +21,7 @@ navigation:
   - title: Organizations
     url: /organizations/
   - title: Smart Oxford
-    url: http://www.oxfordsmartcity.uk
+    url: /smartoxford.md
 
 # Collections
 collections:
