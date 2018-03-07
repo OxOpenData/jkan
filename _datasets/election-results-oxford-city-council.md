@@ -2,7 +2,9 @@
 schema: default
 title: 'Election results: Oxford City Council'
 organization: Oxford City Council
-notes: ''
+notes: >-
+  Details of candidates standing, votes cast and persons elected for individual
+  wards for the biennial elections to 50% of Oxford City Council
 resources:
   - name: Oxford City Council election results
     url: >-
