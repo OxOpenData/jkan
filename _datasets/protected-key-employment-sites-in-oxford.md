@@ -2,7 +2,7 @@
 schema: default
 title: Protected Key Employment Sites in Oxford
 organization: Oxford City Council
-notes: ''
+notes: Full INSPIRE dataset on data.gov.uk
 resources:
   - name: Protected Key Employment Sites in Oxford INSPIRE dataset
     url: >-
