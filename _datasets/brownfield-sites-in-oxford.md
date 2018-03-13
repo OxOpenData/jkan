@@ -1,20 +1,18 @@
 ---
 schema: default
-title: Brownfield sites in Oxford
+title: Brownfield Sites in Oxford
 organization: Oxford City Council
 notes: >-
   The brownfield register lists previously developed (brownfield) land within
   Oxford where residential development is considered suitable, available and
   achievable
 resources:
-  - name: INSPIRE open dataset (full)
+  - name: Brownfield Sites in Oxford INSPIRE dataset
     url: 'https://data.gov.uk/dataset/brownfield-sites7'
-    format: html
-  - name: Brownfield site register (without site plans)
-    url: 'http://oxopendata.github.io/brownfield-sites-in-oxford-without-plans'
-    format: csv
+    format: ''
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
+  - Environment
   - Planning
   - Land and Property
 maintainer: Oxford City Council
