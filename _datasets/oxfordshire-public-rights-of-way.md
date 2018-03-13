@@ -22,7 +22,8 @@ resources:
     format: shp
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - Parks and Open Spaces
+  - Land and Property
+  - Transportation
 maintainer: Oxfordshire County Council
 maintainer_email: ''
 ---
