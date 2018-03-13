@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Allotments in Oxford City Council Administrative Area
+title: Allotments in Oxford
 organization: Oxford City Council
 notes: Details of allotments in Oxford. Full INSPIRE dataset hosted on data.gov.uk
 resources:
@@ -11,7 +11,6 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Environment
-  - Land and Property
 maintainer: Oxford City Council
 maintainer_email: opendata@oxford.gov.uk
 ---
