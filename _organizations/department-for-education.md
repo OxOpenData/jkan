@@ -6,5 +6,5 @@ description: >-
   education, including higher and further education policy, apprenticeships and
   wider skills in England.
 logo: >-
-  https://en.wikipedia.org/wiki/Department_for_Education#/media/File:Department_for_Education.svg
+  https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Department_for_Education.svg/250px-Department_for_Education.svg.png
 ---
