@@ -6,6 +6,5 @@ description: >-
   education, including higher and further education policy, apprenticeships and
   wider skills in England.
 logo: >-
-  https://oxopendata.github.io/jkan/img/FireShot Capture 140 - Department for
-  Education - GOV.UK_ - https___www.gov.uk_government_orga.png
+  https://en.wikipedia.org/wiki/Department_for_Education#/media/File:Department_for_Education.svg
 ---
