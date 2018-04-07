@@ -70,7 +70,7 @@ hypothesis:
 # Twitter
 twittercard:
   enabled: false
-  username: "@"
+  username: "@OxfordSmartCity"
 
 # Open Graph
 opengraph:
