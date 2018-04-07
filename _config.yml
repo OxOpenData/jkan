@@ -22,6 +22,8 @@ navigation:
     url: /organizations/
   - title: Smart Oxford
     url: /smartoxford.html
+  - title: Contact
+    url: /contact/
 
 # Collections
 collections:
