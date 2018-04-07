@@ -11,6 +11,10 @@ resources:
   - name: Road Traffic Accidents by year
     url: 'https://oxopendata.github.io/road-safety-accident-data-for-oxfordshire/'
     format: csv
+  - name: Road Accident Safety Data Guide
+    url: >-
+      https://oxopendata.github.io/road-safety-accident-data-for-oxfordshire/data/Road-Accident-Safety-Data-Guide.xls
+    format: csv
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Transportation
