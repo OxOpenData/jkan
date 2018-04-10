@@ -28,7 +28,7 @@ resources:
   - name: Joint Strategic Needs Assessment 2012
     url: >-
       http://insight.oxfordshire.gov.uk/cms/2011-12-jsna-report-versions-4-and-5-periods-20102011-and-20112012
-    format: ''
+    format: html
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Population
