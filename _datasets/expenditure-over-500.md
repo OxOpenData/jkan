@@ -13,6 +13,7 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Finance
+  - Transparency
 maintainer: Oxford City Council
 maintainer_email: opendata@oxford.gov.uk
 ---
